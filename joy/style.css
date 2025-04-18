@@ -14,6 +14,7 @@ body {
     position: absolute; /* Absolute positioning to make it float above other content */
     top: 5%; /* You can adjust the position vertically */
     z-index: 10; /* Higher z-index to make sure hearts are above carousel */
+    padding-inline: 1rem;
 }
 
 .heart {
